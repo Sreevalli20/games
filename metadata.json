@@ -1,0 +1,6 @@
+{
+  "name": "ECHO//9",
+  "description": "A cinematic 3D action-adventure puzzle game where the world rewinds 9 seconds, but you remain—cooperate with your temporal Echoes to reconnect with Mira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
